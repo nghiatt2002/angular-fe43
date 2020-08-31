@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;CAOhB;;AAVD,AAII,OAJG,CAIH,KAAK,CAAC;EACF,KAAK,EAAE,GAAG;CACb;;AANL,AAOI,OAPG,CAOH,MAAM,CAAC;EACH,KAAK,EAAE,GAAG;CACb;;AAEL,AAAA,OAAO,EAAE,OAAO,EAAE,KAAK,EAAE,MAAM,CAAC;EAC5B,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "../bt1-main/bt1-main.component.scss"
+    ],
+    "names": [],
+    "file": "bt1-main.component.css"
+}
